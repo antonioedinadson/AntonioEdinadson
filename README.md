@@ -8,8 +8,6 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Blog](https://img.shields.io/website?label=AntonioEdinadson.dev&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://antonioedinadson.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioEdinadson&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block;"><br/>
