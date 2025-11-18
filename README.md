@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Antônio%20Eugênio%20&fontSize=40&fontColor=fff&animation=twinkling" />
 </p>
 
-## Opa, bão? Eu sou o Antônio
+## E ai? Eu sou o Antônio
 
 **Desenvolvedor Full Stack**
 Atualmente focado em **PHP/Laravel**, **Node.js**, **React.js**, **Vue.js** e **React Native**, criando soluções que vão de aplicativos mobile a sistemas web completos.
