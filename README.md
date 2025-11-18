@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Antônio%20Eugênio%20&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Antônio%20Edinadson%20&fontSize=40&fontColor=fff&animation=twinkling" />
 </p>
 
 ## E ai? Eu sou o Antônio
